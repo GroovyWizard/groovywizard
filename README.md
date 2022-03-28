@@ -43,6 +43,35 @@
 </h2>
 
 
-<p align='center'>
- Check my <a href="https://github.com/GroovyWizard?tab=repositories"> REPOS </a>!
-</p>
+<h2 align='center'>
+Workspaces:
+    <p/>
+    <br>
+    
+    <strong align='center'> 
+       <img src="https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
+    </strong>
+    
+    <p align='center'>
+        <img src="https://img.shields.io/badge/AMD%20Ryzen_7_3700U-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AMD%20Radeon_RX_VEGA_10-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+    </p>
+    
+    <strong align='center'>
+          <img src="https://img.shields.io/badge/PC%20-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    </strong>
+    
+    <p/>
+    <p align='center'>
+        <img src="https://img.shields.io/badge/AMD%20Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+    </p>
+     
+</h2>
+
+
+
