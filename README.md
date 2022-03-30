@@ -69,7 +69,8 @@ Workspaces:
         <img src="https://img.shields.io/badge/AMD%20Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
         <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
         <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+        <img src="https://img.shields.io/badge/Arco_Linux_BYOI-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+     
     </p>   
 Editors:
     <p/>
