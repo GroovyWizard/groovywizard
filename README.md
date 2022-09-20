@@ -13,7 +13,7 @@
 </h1>
 
 <h3 align='center'> I'm a fullstack web developer from Cianorte, Brazil. </h3>
-<p align='center'>  Right now i'm aiming towards Backend Development, Maths and Functional Programming! Improving and becoming a better developer day after day, looking for the best practices and always studying and learning new things.  </p>
+<p align='center'>  Right now i'm aiming towards Backend Development, Maths and Low Level Programming! Improving and becoming a better developer day after day, looking for the best practices and always studying and learning new things.  </p>
 
 
 <h2 align='center'>
