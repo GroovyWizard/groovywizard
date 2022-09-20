@@ -56,10 +56,11 @@
 
 
 <h2 align='center'>
-    Editors:
+    Distros I'm Using:
     <p/>
     <p align='center'>
-          <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />    
+      <img src="https://img.shields.io/badge/Work: Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Personal: Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
     </p>
 </h2>
 
