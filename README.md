@@ -59,7 +59,7 @@
     Distros I'm Using:
     <p/>
     <p align='center'>
-      <img src="https://img.shields.io/badge/Work: Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Work: Fedora 36-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
       <img src="https://img.shields.io/badge/Personal: Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
     </p>
 </h2>
