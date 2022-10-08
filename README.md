@@ -13,7 +13,7 @@
 </h1>
 
 <h3 align='center'> I'm a fullstack web developer from Cianorte, Brazil. </h3>
-<p align='center'>  Right now i'm aiming towards Backend Development, Maths and Low Level Programming! Improving and becoming a better developer day after day, looking for the best practices and always studying and learning new things.  </p>
+<p align='center'>  Right now i'm aiming towards Backend Development, System Programming, Low Level Programming, Game Modding and diving deeper into the Linux Kernel on my free time. </p>
 
 
 <h2 align='center'>
@@ -26,6 +26,8 @@
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
       <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
     </p>
     <p>
       <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
