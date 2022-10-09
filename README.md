@@ -61,10 +61,24 @@
 <h2 align='center'>
     Distros I'm Using:
     <p/>
-    <p align='center'>
-      <img src="https://img.shields.io/badge/Work: Fedora 36-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Personal: Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-    </p>
+    <h4 align='center'>
+     Work:
+    </h4>
+    <h4 align='center'>
+      <img src="https://img.shields.io/badge/Fedora 36-294172?style=for-the-badge&logo=fedora&logoColor=white"/>  
+    </h4>
+    <h4 align='center'>
+     Personal:
+    </h4>
+    <h4 align='center'>
+       <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+    </h4>
+    <h4 align='center'>
+     RetroGaming Box:
+    </h4>
+    <h4 align='center'>
+        <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white"/>
+    </h4>
 </h2>
 
 
