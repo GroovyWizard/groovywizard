@@ -1,4 +1,4 @@
-<h1 align='center'> Heya! I'm GroovyWizard, or... simply Veiga ! 🧙‍♂️ 
+<h1 align='center'> Heya! I'm GroovyWizard, or... Veiga ! 🧙‍♂️ 
 <p/>
 <p align='center'>
 <a href="https://www.linkedin.com/in/lucas-felipe-da-veiga-792a06213/">
@@ -13,7 +13,7 @@
 </h1>
 
 <h3 align='center'> I'm a fullstack web developer from Cianorte, Brazil. </h3>
-<p align='center'>  Right now i'm aiming towards Backend Development, System Programming, Low Level Programming, Game Modding and diving deeper into the Linux Kernel on my free time. </p>
+<p align='center'>  Right now i'm aiming towards Backend Development, Data Science, Low Level Programming and Game Modding on my free time.  </p>
 
 
 <h2 align='center'>
