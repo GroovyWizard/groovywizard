@@ -59,22 +59,4 @@
 </h2>
 
 
-<h2 align='center'>
-    Distros I'm Using:
-    <p/>
-    <h4 align='center'>
-     Workstation:
-    </h4>
-    <h4 align='center'>
-       <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>    
-    </h4>
-    <h4 align='center'>
-     Personal Use:
-    </h4>
-    <h4 align='center'>
-        <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-    </h4>
-</h2>
-
-
 
