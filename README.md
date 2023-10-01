@@ -1,4 +1,4 @@
-<h1 align='center'> Heya! I'm GroovyWizard, or... Veiga ! 🧙‍♂️ 
+<h1 align='center'> Hi! I'm Veiga ! 
 <p/>
 <p align='center'>
 <a href="https://www.linkedin.com/in/lucas-felipe-da-veiga-792a06213/">
