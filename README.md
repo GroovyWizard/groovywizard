@@ -1,4 +1,4 @@
-<h1 align='center'> Hi! I'm Veiga ! 
+<h1 align='center'> Hi! 
 <p/>
 <p align='center'>
 <a href="https://www.linkedin.com/in/lucas-felipe-da-veiga-792a06213/">
@@ -11,9 +11,6 @@
   
  <p/>
 </h1>
-
-<h3 align='center'> I'm a fullstack web developer from Cianorte, Brazil. </h3>
-<p align='center'>  Right now i'm aiming towards Backend Development, Data Science, Low Level Programming and Game Modding on my free time.  </p>
 
 
 <h2 align='center'>
